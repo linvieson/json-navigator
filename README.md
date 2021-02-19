@@ -1,4 +1,4 @@
-JSON NAVIGATOR
+# Json Navigator
 
 ## Description
 This program gets the json file from the user. It asks a user, which part of
