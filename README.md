@@ -42,4 +42,4 @@ python dictionary. The user can see particular values he or she is interested
 in, thus it creates a convenient environment of analyzing a json file.
 
 ## License
-[MIT](https://github.com/linvieson/json-apps/json-navigator/blob/main/LICENSE.txt)
+[MIT](https://github.com/linvieson/json-navigator/blob/main/LICENSE.txt)
